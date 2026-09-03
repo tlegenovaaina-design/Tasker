@@ -1,0 +1,8 @@
+D:\Projects\Tasker\Tasker\bin\Debug\Tasker.exe.config
+D:\Projects\Tasker\Tasker\bin\Debug\Tasker.exe
+D:\Projects\Tasker\Tasker\bin\Debug\Tasker.pdb
+D:\Projects\Tasker\Tasker\obj\Debug\Tasker.csproj.AssemblyReference.cache
+D:\Projects\Tasker\Tasker\obj\Debug\Tasker.csproj.CoreCompileInputs.cache
+D:\Projects\Tasker\Tasker\obj\Debug\Tasker.exe
+D:\Projects\Tasker\Tasker\obj\Debug\Tasker.pdb
+D:\Projects\Tasker\Tasker\obj\Debug\Tasker.exe.config
